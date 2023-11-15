@@ -1,0 +1,38 @@
+
+.box {
+    background-color: rgb(142, 137, 137);
+    width: 300px;
+    height: 300px;
+    margin-top: 250px;
+    margin-left: 550px;
+    display: inline-block;
+
+}
+.eyes{
+    display: flex;
+    text-align: center;
+    background-color: white;
+   
+}
+.eye{
+    font-size: 80px;
+
+
+}
+.text{
+font-size: 30px;
+display: inline-block;
+color: red;
+
+
+}
+
+.mouth{
+display: inline-block;
+width: 150px;
+height: 40px;
+border-radius: 20px;
+background-color: blue;
+
+}
+
